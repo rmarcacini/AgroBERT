@@ -14,6 +14,9 @@ AgroBERT has been applied in exploratory analysis tasks of the [Websensors](http
 ## Pre-processing and classification of agribusiness texts
 
 ![](img/img1.png)
+
+Yellow nodes = POSITIVE
+Blue nodes = NEGATIVE
 ![](img/img2.png)
 
 ## Analysis of the temporal evolution of negative or positive texts about a certain commodity.
