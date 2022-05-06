@@ -26,4 +26,4 @@ AgroBERT has been applied in exploratory analysis tasks of the Websensors projec
 
 # How to use AgroBERT
 
-A public version of AgroBERT is available in this Jupyter Notebook, with examples for use in Portuguese.
+A public version of AgroBERT is available in this [Jupyter Notebook](AgroBERT.ipynb), with examples for use in Portuguese.
