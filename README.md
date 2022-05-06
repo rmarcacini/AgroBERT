@@ -22,9 +22,10 @@ Yellow nodes = POSITIVE / Blue nodes = NEGATIVE
 
 ![](img/img3.png)
 
-Heatmap from negative news about soybean.
 
 ## Analysis of the geographic coverage of negative or positive texts about a given commodity.
+
+Heatmap from negative news about soybean.
 
 ![](img/img4.png)
 
