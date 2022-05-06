@@ -14,3 +14,16 @@ AgroBERT has been applied in exploratory analysis tasks of the Websensors projec
 ## Pre-processing and classification of agribusiness texts
 
 ![](img/img1.png)
+![](img/img2.png)
+
+## Analysis of the temporal evolution of negative or positive texts about a certain commodity.
+
+![](img/img3.png)
+
+## Analysis of the geographic coverage of negative or positive texts about a given commodity.
+
+![](img/img4.png)
+
+# How to use AgroBERT
+
+A public version of AgroBERT is available in this Jupyter Notebook, with examples for use in Portuguese.
